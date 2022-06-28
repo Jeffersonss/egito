@@ -1,0 +1,14 @@
+<svg width="414" height="784" viewBox="0 0 414 784" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="414" height="784">
+<rect width="414" height="784" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<line y1="-0.5" x2="826.362" y2="-0.5" transform="matrix(0.550743 0.834675 -0.89257 0.45091 -286 142.278)" stroke="white" stroke-opacity="0.15"/>
+<line y1="-0.5" x2="826.362" y2="-0.5" transform="matrix(0.550743 0.834675 -0.89257 0.45091 -209.781 103.774)" stroke="white" stroke-opacity="0.15"/>
+<line y1="-0.5" x2="826.362" y2="-0.5" transform="matrix(0.550743 0.834675 -0.89257 0.45091 -113.766 55.2686)" stroke="white" stroke-opacity="0.15"/>
+<line y1="-0.5" x2="826.362" y2="-0.5" transform="matrix(0.550743 0.834675 -0.89257 0.45091 -37.5472 16.7643)" stroke="white" stroke-opacity="0.15"/>
+<line y1="-0.5" x2="826.362" y2="-0.5" transform="matrix(0.550743 0.834675 -0.89257 0.45091 58.4685 -31.741)" stroke="white" stroke-opacity="0.15"/>
+<line y1="-0.5" x2="826.362" y2="-0.5" transform="matrix(0.550743 0.834675 -0.89257 0.45091 144.586 -75.2458)" stroke="white" stroke-opacity="0.15"/>
+<line y1="-0.5" x2="826.362" y2="-0.5" transform="matrix(0.550743 0.834675 -0.89257 0.45091 225.861 -106.086)" stroke="white" stroke-opacity="0.15"/>
+</g>
+</svg>
